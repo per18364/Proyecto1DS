@@ -6,7 +6,7 @@ El dataset es en su mayor parte categórico, donde la mayoría son variables cla
  Variable	| Significado	| Tipo de dato |	Valores posibles
 Codigo	|Código único para identificar la escuela |	Object |	xx-xx-xxxx-xx
 
-Distrito	|Distriyo donde se encuentra la escuela	Object	código de 5 números del distrito
+#### Distrito	|Distriyo donde se encuentra la escuela	Object	código de 5 números del distrito
 Departamento	|Departamento donde se encuentra la escuela	Object	Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa.
 Municipio	|Municipio donde se encuentra la escuela	Object	Los 340 municipios
 Establecimiento	|Nombre completo de la escuela	Object	Nombre de la institución
